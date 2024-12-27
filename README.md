@@ -6,8 +6,17 @@
 
 Catatan belajar seputar teknologi, seperti termux, jarkom, linux, koding dan lain-lain.
 
-### Daftar Catatan
+## Daftar Catatan
 
-- [Termux](./termux/)
-- [Linux](./linux/)
-- [Jarkom](./jarkom/)
+### [Termux](./termux/)
+
+- [Menggunakan Pacman di Termux](./termux/pacman.md)
+
+### [Linux](./linux/)
+
+- [Pengenalan Linux](./linux/pengenalan-linux.md)
+- [Sistem file linux](./linux/sistem-file-linux.md)
+
+### [Jarkom](./jarkom/)
+
+- [Internet Dan Protokol](./jarkom/internet-dan-protokol.md)
