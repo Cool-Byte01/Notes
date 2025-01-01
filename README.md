@@ -1,22 +1,18 @@
-                _   __      __
-               / | / /___  / /____  _____
-              /  |/ / __ \/ __/ _ \/ ___/
-             / /|  / /_/ / /_/  __(__  )
-            /_/ |_/\____/\__/\___/____/
+<h1 align='center'>Catatan</h1>
 
-Catatan belajar seputar teknologi, seperti termux, jarkom, linux, koding dan lain-lain.
+Catatan belajar seputar teknologi, seperti termux, jarkom, linux, koding dan lain-lain, Semoga bermanfaat.
 
 ## Daftar Catatan
 
-### [Termux](./termux/)
+### Termux
 
 - [Menggunakan Pacman di Termux](./termux/pacman.md)
 
-### [Linux](./linux/)
+### Linux
 
 - [Pengenalan Linux](./linux/pengenalan-linux.md)
 - [Sistem file linux](./linux/sistem-file-linux.md)
 
-### [Jarkom](./jarkom/)
+### Jarkom
 
 - [Internet Dan Protokol](./jarkom/internet-dan-protokol.md)
