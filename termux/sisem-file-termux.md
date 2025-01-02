@@ -26,13 +26,9 @@ Pada Termux struktur file dan direktori disusun dalam bentuk hiarki(satu direkto
 
   - `/opt/` : Dicadangkan untuk paket perangkat lunak opsional. Jika Anda menginstal perangkat lunak tambahan yang tidak termasuk dalam paket standar, mereka mungkin ditempatkan di sini.
 
-  <details>
-    <summary>Opsional jika menggunakan pacman</summary>
-
-  - `/etc/pacman.conf` : Berisi pengaturan konfigurasi untuk pacman, termasuk informasi repositori dan opsi konfigurasi lainnya. Anda dapat mengedit file ini untuk menambahkan repositori tambahan atau mengubah perilaku pacman.
-
-  - `/var/lib/pacman/` : Menyimpan basis data paket yang diinstal dan informasi repositori. Direktori ini penting untuk melacak status paket yang diinstal dan tersedia.
-
-  </details>
+> [!OPTIONAL]
+>
+> - `/etc/pacman.conf` : Berisi pengaturan konfigurasi untuk pacman, termasuk informasi repositori dan opsi konfigurasi lainnya. Anda dapat mengedit file ini untuk menambahkan repositori tambahan atau mengubah perilaku pacman.
+> - `/var/lib/pacman/` : Menyimpan basis data paket yang diinstal dan informasi repositori. Direktori ini penting untuk melacak status paket yang diinstal dan tersedia.
 
 Memahami struktur ini akan membantu Anda menavigasi dan mengelola file serta direktori dalam Termux dengan lebih efisien.
