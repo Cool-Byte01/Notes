@@ -1,6 +1,6 @@
 # Bagaimana Cara Kerja Termux?
 
-Termux pada dasarnya aplikasi yang menjalankan baris perintah _(command line)_ dengan menggunakan **system call execve(2)** dan mengarahkan kembali input, output dan kesalahan ke layar.[^1]
+Termux pada dasarnya aplikasi yang menjalankan baris perintah _(command line)_ dengan menggunakan **system call execve(2)** dan mengarahkan kembali input, output dan kesalahan ke layar.
 
 <details>
     <summary>System Call Execve(2)</summary>

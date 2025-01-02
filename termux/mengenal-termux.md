@@ -4,9 +4,9 @@ Disini Kita akan mengenal dan menjelajahi Termux.
 
 ### Apa Itu Termux?
 
-Termux adalah terminal emulator Android dan aplikasi lingkungan Linux yang bekerja secara langsung tanpa **rooting** atau pengaturan yang diperlukan. Sistem dasar minimal diinstal secara otomatis, paket tambahan tersedia menggunakan paket manajer. Tujuan utama dari Termux adalah untuk membawa pengalaman baris perintah Linux kepada pengguna perangkat seluler tanpa rooting atau pengaturan khusus lainnya yang diperlukan.[^1]
+Termux adalah terminal emulator Android dan aplikasi lingkungan Linux yang bekerja secara langsung tanpa **rooting** atau pengaturan yang diperlukan. Sistem dasar minimal diinstal secara otomatis, paket tambahan tersedia menggunakan paket manajer. Tujuan utama dari Termux adalah untuk membawa pengalaman baris perintah Linux kepada pengguna perangkat seluler tanpa rooting atau pengaturan khusus lainnya yang diperlukan.
 
-Sebagian besar perintah yang tersedia di GNU dapat diakses melalui antarmuka baris perintah Bash bawaan. Ada juga beberapa shell lain yang tersedia, seperti Zsh dan tcsh.[^2]
+Sebagian besar perintah yang tersedia di GNU dapat diakses melalui antarmuka baris perintah Bash bawaan. Ada juga beberapa shell lain yang tersedia, seperti Zsh dan tcsh.
 
 Termux adalah aplikasi terminal Android pertama yang menyertakan berbagai perangkat lunak, tidak seperti emulator terminal lainnya, yang hanya menyediakan utilitas kecil atau terbatas yang disediakan oleh Android.
 
@@ -25,11 +25,3 @@ Dengan Termux, Anda dapat melakukan:
 Termux menyediakan lingkungan seperti Linux yang sangat lengkap di Android, tanpa memerlukan akses root atau dukungan akselerasi perangkat keras.
 
 Ini memberikan alat Linux dan Unix standar yang diharapkan dan diandalkan oleh pengembang, sysadmin, peretas, dan pengguna listrik untuk pekerjaan berbasis terminal.
-
-<!--
-<details>
-    <summary>Refrensi</summary>
-- [^1]: [Wiki Termux](https://wiki.termux.com/wiki/Getting_started)
-- [^2]: [wikipedia](https://id.m.wikipedia.org/wiki/Termux)
-</details>
--->
