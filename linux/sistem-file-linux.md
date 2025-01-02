@@ -136,6 +136,7 @@ Adapun karakteristik sistem file `Ext4` adalah sebagai berikut:
 - Memiliki beberapa fitur baru, seperti multiblock allocation, delayed allocation, jurnal checksum, fast fsck dan lain-lain.
 
 > [!NOTE]
+>
 > - **Multiblock Allocation**: memungkinkan file sistem untuk mengalokasikan beberapa block sekaligus untuk sebuah file dalam operasi.
 > - **Delayed Allocation**: menunda pemesanan ruang di disk sampai data benar-benar ditulis.
 > - **Jurnal Checksum**: mengecek catatan aktivitas disk(_jurnal_) untuk memastikan semuanya aman.
@@ -165,8 +166,8 @@ Contoh partisi hardisk dengan file sisem ext4:
     /boot      /      /home     swap
 
 ```
-> [!NOTE]
-> **Mounting** adalah proses menghubungkan perangkat penyimpanan atau partisi ke sistem file dengan menetapkannya ke `mount point.` Setelah `di-mount,` isi perangkat tersebut dapat diakses melalui direktori `mount point`. Sedangkan **Unmounting** adalah proses melepaskan perangkat penyimpanan dari sistem file, _(kebalikan dari proses `mounting`)_.
+
+> [!NOTE] > **Mounting** adalah proses menghubungkan perangkat penyimpanan atau partisi ke sistem file dengan menetapkannya ke `mount point.` Setelah `di-mount,` isi perangkat tersebut dapat diakses melalui direktori `mount point`. Sedangkan **Unmounting** adalah proses melepaskan perangkat penyimpanan dari sistem file, _(kebalikan dari proses `mounting`)_.
 
 ### Struktur File Sistem
 
@@ -203,6 +204,8 @@ Pada linux struktur file dan direktori disusun dalam bentuk hiarki(satu direktor
 |   |-- /var/lib     : File database atau state aplikasi.
 ```
 
+> [!WARNING]
+>
 > Nama file maupun direktori dalam linux bersifat **case sensitive**, yang berarti huruf kecil dan besar akan memiliki makna yang berbeda.
 
 ### Absolute dan Relative Pathname
