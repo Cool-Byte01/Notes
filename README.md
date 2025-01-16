@@ -1,6 +1,4 @@
-# Catatan
-
-Catatan seputar teknologi, seperti termux, jarkom, linux, koding dan lain-lain, Semoga bermanfaat.
+Ilmu adalah buruan dan tulisan adalah ikatannya. Ikatlah buruanmu dengan tali yang kuat. (Imam Syafi’i)
 
 ## Daftar Catatan
 
