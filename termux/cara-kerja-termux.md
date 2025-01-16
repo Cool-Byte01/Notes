@@ -4,7 +4,7 @@ Termux pada dasarnya aplikasi yang menjalankan baris perintah _(command line)_ d
 
 <details>
     <summary>System Call Execve(2)</summary>
-**execve(2)** adalah salah satu system call di Unix/Linux yang digunakan untuk mengganti program yang sedang berjalan dalam sebuah proses dengan program baru. System call ini adalah inti dari implementasi eksekusi program pada sistem operasi berbasis Unix.
+execve(2) adalah salah satu system call di Unix/Linux yang digunakan untuk mengganti program yang sedang berjalan dalam sebuah proses dengan program baru. System call ini adalah inti dari implementasi eksekusi program pada sistem operasi berbasis Unix.
 
 Fungsi dari **execve** adalah memungkinkan sebuah proses menjalankan program baru dengan mengganti kode, data, dan konteks eksekusi yang ada dengan milik program baru. Proses yang menjalankan execve tidak membuat proses baru, tetapi mengubah proses yang ada menjadi program yang diminta.
 
