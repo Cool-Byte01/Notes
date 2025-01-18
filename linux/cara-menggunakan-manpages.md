@@ -1,5 +1,16 @@
 # Belajar Perintah Linux Dengan Man Pages
 
+<!-- mtoc-start -->
+
+* [Perintah Dasar Man Pages](#perintah-dasar-man-pages)
+  * [Opsi Man Pages](#opsi-man-pages)
+  * [Section Man Pages](#section-man-pages)
+    * [Penggunaan man pages dengan section](#penggunaan-man-pages-dengan-section)
+  * [Navigasi Man Pages](#navigasi-man-pages)
+  * [Cara Install Man Pages Di Termux](#cara-install-man-pages-di-termux)
+
+<!-- mtoc-end -->
+
 Man pages (Manual Pages) adalah dokumentasi resmi untuk perintah-perintah, fungsi, dan sistem operasi Linux. Berikut cara menggunakan man pages.
 
 ### Perintah Dasar Man Pages

@@ -11,12 +11,16 @@
 - [Menggunakan Pacman Di Termux](./termux/pacman.md)
 </details>
 
-### Linux
+<details>
+    <summary>Linux</summary>
 
 - [Pengenalan Linux](./linux/pengenalan-linux.md)
 - [Sistem File Linux](./linux/sistem-file-linux.md)
 - [Belajar Peruntah Linux(Termux) Dengan Man Pages](./linux/cara-menggunakan-manpages.md)
+</details>
 
-### Jarkom
+<details>
+    <summary>Jarkom</summary>
 
 - [Internet Dan Protokol](./jarkom/internet-dan-protokol.md)
+</details>
