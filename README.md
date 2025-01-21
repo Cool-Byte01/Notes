@@ -2,20 +2,19 @@ _Ilmu adalah buruan dan tulisan adalah ikatannya. Ikatlah buruanmu dengan tali y
 
 ## Daftar Catatan
 
-### Termux
+### Linux
 
-[Termux](./termux/)
+- [Pengenalan Linux](./linux/pengenalan-linux.md)
+- [Sistem File Linux](./linux/sistem-file-linux.md)
+- [Belajar Perintah Linux Dengan Man Pages](./linux/cara-menggunakan-manpages.md)
+- [Perintah Dasar Linux](./linux/basic-command/)
+
+### Termux
 
 - [Mengenal Termux](./termux/mengenal-termux.md)
 - [Sistem File Termux](./termux/sisem-file-termux.md)
 - [Cara Kerja Termux](./termux/cara-kerja-termux.md)
 - [Menggunakan Pacman Di Termux](./termux/pacman.md)
-
-### Linux
-
-- [Pengenalan Linux](./linux/pengenalan-linux.md)
-- [Sistem File Linux](./linux/sistem-file-linux.md)
-- [Belajar Peruntah Linux(Termux) Dengan Man Pages](./linux/cara-menggunakan-manpages.md)
 
 ### Jarkom
 
