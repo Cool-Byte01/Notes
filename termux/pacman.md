@@ -1,12 +1,3 @@
-<!-- mtoc-start -->
-
-- [Cara Menggunakan Pacman Di Termux](#cara-menggunakan-pacman-di-termux)
-  - [Langkah Pertama](#langkah-pertama)
-  - [Langkah Kedua](#langkah-kedua)
-  - [Langkah Ketiga](#langkah-ketiga)
-
-<!-- mtoc-end -->
-
 ## Cara Menggunakan Pacman Di Termux
 
 Disini Saya akan memberikan tutorial bagaimana caranya menggunakan Pacman di Termux.

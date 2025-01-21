@@ -4,5 +4,7 @@ Disini hanya menyampaikan perintah dan opsi perintah yang penting saja, jika ing
 
 ## Daftar Perintah
 
-- Memanagement File Dan direktori
+- Management File Dan direktori
   - [ls](./file-dan-direktori/ls.md)
+  - [cd](./file-dan-direktori/cd.md)
+  - [pwd](./file-dan-direktori/pwd.md)

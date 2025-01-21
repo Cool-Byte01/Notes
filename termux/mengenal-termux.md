@@ -1,11 +1,3 @@
-<!-- mtoc-start -->
-
-- [Mengenal Termux](#mengenal-termux)
-  - [Apa Itu Termux?](#apa-itu-termux)
-    - [Apa Yang Bisa Dilakukan Dengan Termux?](#apa-yang-bisa-dilakukan-dengan-termux)
-
-<!-- mtoc-end -->
-
 # Mengenal Termux
 
 Disini Kita akan mengenal dan menjelajahi Termux.

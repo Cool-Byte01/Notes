@@ -7,7 +7,7 @@ _Ilmu adalah buruan dan tulisan adalah ikatannya. Ikatlah buruanmu dengan tali y
 - [Pengenalan Linux](./linux/pengenalan-linux.md)
 - [Sistem File Linux](./linux/sistem-file-linux.md)
 - [Belajar Perintah Linux Dengan Man Pages](./linux/cara-menggunakan-manpages.md)
-- [Perintah Dasar Linux](./linux/basic-command/)
+- [Perintah Dasar Linux](./linux/basic-command/README.md)
 
 ### Termux
 
