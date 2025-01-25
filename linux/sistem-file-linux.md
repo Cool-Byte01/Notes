@@ -84,31 +84,14 @@ Sistem Linux tidak menggunakan istilah **Disk 0**, **Disk 1** dan seterusnya. Si
 
 Ilustrasi berikut memperlihatkan sebuah linux dengan dua hardis yang sudah dipartisi menjadi beberapa bagian:
 
-```
-                sda
-  +----------------------------------+
-  | sda1     | sda2      | sda3      |
-  +----------------------------------+
-
-                sdb
-  +----------------------------------+
-  |             sdb1                 |
-  +----------------------------------+
-
-
-```
+[[../img/partisi-linux_page-1.jpg]]
 
 Pada linux ada 2 jenis partisi, yaitu:
 
 - **Data Partition** : partisi ini digunakan untuk menyimpan program, data maupun konfigurasi yang digunakan untuk menjalankan sistem.
 - **Swap Partition** : partisi yang digunakan sebagai memori tambahan untuk membantu kinerja RAM.
 
-```
-  +---------------------------------+
-  | Data partition | Swap partition |
-  +---------------------------------+
-Linux dengan satu partisi data dan satu partisi swap.
-```
+[[../img/partisi-linux_page-2.jpg]]
 
 Untuk membangun sistem Linux, dibutuhkan minimal satu data
 partition, dan satu swap partition.
@@ -144,30 +127,16 @@ Adapun karakteristik sistem file `Ext4` adalah sebagai berikut:
 
 Contoh partisi hardisk dengan file sisem ext4:
 
-```
-                sda
-  +--------------------------------------------+
-  | sda1                     | sda2            |
-  | Data Partition,          | Swap Partition  |
-  | type : ext4              | type : ext4     |
-  +--------------------------------------------+
-
-```
+[[../img/partisi-linux_page-3.jpg]]
 
 #### Mount Point
 
 **Mount point** adalah sebuah lokasi direktori dalam sistem file linux tempat sebuah perangkat penyimpanan diakses. Contoh mount point partisi **_sda1_** langsung dimount ke direktori boot, **_sda2_** ke direktori root dan seterusnya.
 
-```
-  +------------------------------------+
-  | sda1   | sda2    | sda3   | sda4   |
-  +------------------------------------+
-      |        |        |        |
-    /boot      /      /home     swap
+[[../img/partisi-linux_page-4.jpg]]
 
-```
-
-> [!NOTE] > **Mounting** adalah proses menghubungkan perangkat penyimpanan atau partisi ke sistem file dengan menetapkannya ke `mount point.` Setelah `di-mount,` isi perangkat tersebut dapat diakses melalui direktori `mount point`. Sedangkan **Unmounting** adalah proses melepaskan perangkat penyimpanan dari sistem file, _(kebalikan dari proses `mounting`)_.
+> [!NOTE]
+> **Mounting** adalah proses menghubungkan perangkat penyimpanan atau partisi ke sistem file dengan menetapkannya ke `mount point.` Setelah `di-mount,` isi perangkat tersebut dapat diakses melalui direktori `mount point`. Sedangkan **Unmounting** adalah proses melepaskan perangkat penyimpanan dari sistem file, _(kebalikan dari proses `mounting`)_.
 
 ### Struktur File Sistem
 
