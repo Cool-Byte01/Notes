@@ -14,7 +14,7 @@ Linux adalah sistem operasi open source berbasis unix yang dirancang untuk membe
 
 * **Komponen Linux**
 
-```
+```plaintext
 +-------------------------------------------------+
 |              Linux Operating System             |
 +-------------------------------------------------+
@@ -32,12 +32,11 @@ Linux adalah sistem operasi open source berbasis unix yang dirancang untuk membe
 +-------------------------------------------------+
 ```
 
-> [!NOTE]
-> **Kernel modul** adalah bagian tambahan dari kernel yang dapat dimuat atau dilepaskan _(loadable/unloadable)_ secara dinamis sesuai kebutuhan, tanpa harus memodifikasi atau memuat ulang kernel utama. Modul ini memungkinkan kernel untuk diperluas atau diubah fungsinya tanpa memengaruhi inti kernel yang sedang berjalan. Contoh: driver untuk printer, LAN card dan USB.
+> [!NOTE] > **Kernel modul** adalah bagian tambahan dari kernel yang dapat dimuat atau dilepaskan _(loadable/unloadable)_ secara dinamis sesuai kebutuhan, tanpa harus memodifikasi atau memuat ulang kernel utama. Modul ini memungkinkan kernel untuk diperluas atau diubah fungsinya tanpa memengaruhi inti kernel yang sedang berjalan. Contoh: driver untuk printer, LAN card dan USB.
 
 - **Arsitektur Linux**
 
-```
+```plaintext
 +-------------------------------------------------+
 |                     User 1                      |
 |            Applications, Compilers              |
@@ -87,35 +86,32 @@ Distribusi Linux atau yang biasa disebut `distro linux` adalah sistem operasi ya
 
 1. **Enterprise** : Distro enterprise dirancang untuk keperluan bisnis dan perusahaan. Fokusnya adalah pada stabilitas, keamanan, dan dukungan jangka panjang (LTS). Biasanya, distro ini didukung oleh tim pengembang profesional dan sering kali menyediakan layanan dukungan teknis.
 
-	- Karakteristik: Stabil, reliabel, memiliki dukungan komersial.
+   - Karakteristik: Stabil, reliabel, memiliki dukungan komersial.
 
-	- Contoh: Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise Server (SLES), Oracle Linux.
+   - Contoh: Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise Server (SLES), Oracle Linux.
 
-	- Penggunaan: Server perusahaan, data center, cloud computing.
-
+   - Penggunaan: Server perusahaan, data center, cloud computing.
 
 2. **Desktop** : Distro desktop dirancang untuk pengguna sehari-hari, baik untuk kebutuhan pribadi maupun pekerjaan ringan. Fokusnya adalah pada kemudahan penggunaan, antarmuka yang ramah pengguna, dan dukungan terhadap perangkat keras yang umum digunakan.
 
-	- Karakteristik: Mudah digunakan, fokus pada GUI (Graphical User Interface), cocok untuk pengguna pemula hingga tingkat lanjut.
+   - Karakteristik: Mudah digunakan, fokus pada GUI (Graphical User Interface), cocok untuk pengguna pemula hingga tingkat lanjut.
 
-	- Contoh: Ubuntu, Linux Mint, Fedora Workstation, Elementary OS.
+   - Contoh: Ubuntu, Linux Mint, Fedora Workstation, Elementary OS.
 
-	- Penggunaan: Pengguna umum, pelajar, pengembang software.
+   - Penggunaan: Pengguna umum, pelajar, pengembang software.
 
 3. **Special Purpose** : Distro ini dirancang untuk tugas-tugas spesifik atau kebutuhan tertentu. Biasanya, ukurannya kecil dan hanya memiliki perangkat lunak yang relevan dengan tujuannya.
 
-	- Karakteristik: Dioptimalkan untuk tugas tertentu (misalnya keamanan, edukasi, atau recovery).
+   - Karakteristik: Dioptimalkan untuk tugas tertentu (misalnya keamanan, edukasi, atau recovery).
 
-	- Contoh:
+   - Contoh:
 
-		1. Keamanan: Kali Linux, Parrot OS (pentesting dan keamanan siber).
+     1. Keamanan: Kali Linux, Parrot OS (pentesting dan keamanan siber).
 
-		2. Edukasi: Edubuntu, Sugar on a Stick.
+     2. Edukasi: Edubuntu, Sugar on a Stick.
 
-		3. Recovery: SystemRescue, Clonezilla Live.
+     3. Recovery: SystemRescue, Clonezilla Live.
 
-		4. Embedded/IoT: OpenWRT, Yocto.
+     4. Embedded/IoT: OpenWRT, Yocto.
 
-
-	- Penggunaan: Forensik digital, pengetesan keamanan, pengembangan IoT, atau administrasi jaringan.
-
+   - Penggunaan: Forensik digital, pengetesan keamanan, pengembangan IoT, atau administrasi jaringan.

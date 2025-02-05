@@ -2,12 +2,13 @@
 
 <!-- mtoc-start -->
 
-* [Perintah Dasar Man Pages](#perintah-dasar-man-pages)
-  * [Opsi Man Pages](#opsi-man-pages)
-  * [Section Man Pages](#section-man-pages)
-    * [Penggunaan man pages dengan section](#penggunaan-man-pages-dengan-section)
-  * [Navigasi Man Pages](#navigasi-man-pages)
-  * [Cara Install Man Pages Di Termux](#cara-install-man-pages-di-termux)
+- [Perintah Dasar Man Pages](#perintah-dasar-man-pages)
+  - [Opsi Man Pages](#opsi-man-pages)
+  - [Section Man Pages](#section-man-pages)
+    - [Penggunaan man pages dengan section](#penggunaan-man-pages-dengan-section)
+  - [Navigasi Man Pages](#navigasi-man-pages)
+  - [Cara Install Man Pages Di Termux](#cara-install-man-pages-di-termux)
+  - [Sumber](#sumber)
 
 <!-- mtoc-end -->
 
@@ -89,11 +90,9 @@ Untuk informasi lebih lanjut bisa dibaca di dokumentasi man pages dengan perinta
 
 Dengan menggunakan man pages, Kamu dapat memahami penggunaan perintah Linux atau Termux dengan lebih baik.
 
-<details>
-    <summary>Sumber</summary>
+### Sumber
 
 - dokumentasi man pages
 - [linkedin](https://www.linkedin.com/pulse/reading-manual-pages-linux-man-command-anshul-agarwal-otcfc#:~:text=The%20man%20command%20in%20Linux,syntax%2C%20options%2C%20and%20examples.)
 
 - [geeksforgeeks](https://www.geeksforgeeks.org/man-command-in-linux-with-examples/)
-  </details>
